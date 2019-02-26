@@ -1,4 +1,4 @@
-# Titulo del trabajo: Agenda electrónica
+# Título del trabajo: Agenda electrónica
 
 Una agenda electrónica para profesores en la que se pueda añadir nombres de alumnos, modificarlos y eliminarlos, así como añadir comentarios sobre los alumnos.
 
