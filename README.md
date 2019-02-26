@@ -1,6 +1,6 @@
-# itulo del trabajo: Agenda electrónica
+# Titulo del trabajo: Agenda electrónica
 
-Una agenda electrónica en la que se pueda añadir contactos, modificarlos y eliminarlos, así como añadir comentarios sobre los contactos
+Una agenda electrónica para profesores en la que se pueda añadir nombres de alumnos, modificarlos y eliminarlos, así como añadir comentarios sobre los alumnos.
 
 ## Integrantes del equipo
 
