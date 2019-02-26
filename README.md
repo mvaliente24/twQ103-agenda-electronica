@@ -1,11 +1,13 @@
-# Título del trabajo
+# itulo del trabajo: Agenda electrónica
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Una agenda electrónica en la que se pueda añadir contactos, modificarlos y eliminarlos, así como añadir comentarios sobre los contactos
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+María Fermosel Álvarez 53244
+Miguel Valiente Alfageme 52683
+Alejandro De Maeseneire 53207
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Aprender a programar más en profundidad
